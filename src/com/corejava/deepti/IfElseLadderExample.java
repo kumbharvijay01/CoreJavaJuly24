@@ -24,7 +24,6 @@ public class IfElseLadderExample {
 //		boolean booleanExp = scanner.nextBoolean();
 //		long longNumber = scanner.nextLong();
 		if (number >= 75) {
-
 			System.out.println("You Scored Distinction " + number);
 			if (number == 80) {
 				System.out.println("You are promoted A Group");

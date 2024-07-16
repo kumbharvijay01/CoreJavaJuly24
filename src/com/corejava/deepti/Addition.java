@@ -15,9 +15,8 @@ public class Addition {
 		// TODO Auto-generated method stub
 		int a = 10;
 		System.out.println(a);
-		
-		int b=12;
-		int sum=a+b;
+		int b = 12;
+		int sum = a + b;
 		System.out.println(sum);
 
 	}
